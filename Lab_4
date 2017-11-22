@@ -15,14 +15,9 @@ private:
 	double dobytok, serAr;
 
 public:
-
-	// ���������� ������� ��� ����� �������
 	void InputMatrix();
-	// ���������� ������� ��� ������ �������
 	void OutputMatrix();
-	//���������� ������� ���������� �������
 	void Sort();
-	//���������� �������� ���������� ������������� �� �������������
 	void SerAriphmeticalAndGeometrical();
 
 };
